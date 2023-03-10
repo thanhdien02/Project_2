@@ -551,6 +551,7 @@ a {
 /* ========= Footer ============== */
 
 .footer {
+    margin-top: 96px;
     background: #2e2100;
     color: #ffffff;
 }
